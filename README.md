@@ -2,6 +2,8 @@
 
 This project builds an intelligent tool that identifies the most cost-effective transportation routes while minimizing fuel usage, delivery time, and carbon emissions. The optimization model is powered by Google OR-Tools and visualized in Power BI and Python mapping tools.
 
+![Project Status](https://img.shields.io/badge/status-in_progress-yellow)
+
 ## 🔧 Tools Used
 - Python, Pandas, NumPy
 - NetworkX
