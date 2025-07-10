@@ -9,7 +9,6 @@ This project builds an intelligent tool that identifies the most cost-effective 
 - NetworkX
 - Google OR-Tools (TSP/VRP Solver)
 - Folium / Plotly (Geospatial Mapping)
-- Power BI
 - Excel/CSV (for input/output)
 
 ## 🎯 Features
